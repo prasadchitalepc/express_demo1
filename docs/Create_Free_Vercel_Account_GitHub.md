@@ -4,6 +4,7 @@
 - Go to [https://vercel.com](https://vercel.com)
 - Click on **“Sign Up”** (top right corner)
 
+Note: Select **Hobby (Free)** plan 
 ---
 
 ## 🧑‍💻 Step 2: Sign Up with GitHub
