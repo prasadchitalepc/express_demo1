@@ -50,9 +50,8 @@ router.patch("/:id", async (req, res) => {
     const query = { _id: new ObjectId(req.params.id) };
     const updates = {
       $set: {
-        name: req.body.name,
-        position: req.body.position,
-        level: req.body.level,
+       name: req.body.name,
+       city: req.body.city 
       },
     };
 
